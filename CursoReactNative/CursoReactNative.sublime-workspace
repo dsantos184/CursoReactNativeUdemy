@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"fontWeight"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"Do",
+				"Diogo"
+			],
+			[
+				"repo",
+				"repoTitle"
+			],
+			[
+				"ste",
+				"styles"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"rep",
+				"repoInfo"
+			],
+			[
+				"sy",
+				"style"
+			],
+			[
+				"stye",
+				"styles"
+			],
+			[
+				"styles",
+				"styles"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"colo",
+				"color-orange"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"vali",
+				"validaAtributo"
+			],
+			[
+				"valu",
+				"validaAtributo"
+			],
+			[
+				"teste",
+				"TESTE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 1824,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sublime.editorconfig",
+			"settings":
+			{
+				"buffer_size": 214,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "# http://editorconfig.org"
+			}
+		},
+		{
+			"file": "components/Repo.js",
+			"settings":
+			{
+				"buffer_size": 912,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/CursoReactNative",
+		"/D/xampp/htdocs/CursoReactNative/components"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/CursoReactNative/package.json",
+		"/D/xampp/htdocs/memv/new-header.php",
+		"/E/Dia_01-02-2018/01/Projeto_Full/Classes/PreVenda.cls",
+		"/D/xampp/htdocs/memv/nova-index.php",
+		"/D/xampp/htdocs/nova-index-memv/nova-index.php",
+		"/D/xampp/htdocs/nova-index-memv/new-header.php",
+		"/D/xampp/htdocs/pocjob/teste/css/style.css",
+		"/D/xampp/htdocs/pocjob/teste/index.php",
+		"/D/xampp/htdocs/pocjob/assets/css/style.css",
+		"/D/xampp/htdocs/pocjob/index.html",
+		"/C/Users/cml7/AppData/Local/Temp/Rar$EXa0.018/bent/index.html",
+		"/C/Users/cml7/AppData/Local/Temp/Rar$EXa0.853/bent/index.html",
+		"/C/Users/cml7/AppData/Local/Temp/Rar$DIa0.707/exercicios.css",
+		"/C/Users/cml7/AppData/Local/Temp/Rar$EXa0.811/curso-web-design-responsivo-paginas-que-se-adaptam-do-mobile-ao-desk-aula5/index.html",
+		"/C/Users/cml7/AppData/Local/Temp/Rar$EXa0.638/curso-web-design-responsivo-paginas-que-se-adaptam-do-mobile-ao-desk-aula4/index.html",
+		"/D/xampp/htdocs/javascript-avancado/aluraframe/client/index.html",
+		"/D/xampp/htdocs/javascript-avancado/aluraframe/client/js/index.js",
+		"/D/Arquivo/Desktop/minhaescolaminhavida.com.br_0.ca",
+		"/C/Users/cml7/AppData/Local/Temp/fz3temp-2/area-diretor.php",
+		"/C/Users/cml7/AppData/Local/Temp/fz3temp-2/functions-area-diretor.php",
+		"/C/Users/cml7/Downloads/boleto_15_04_2018.html",
+		"/C/Users/cml7/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/cml7/AppData/Local/Temp/fz3temp-2/jquery-validate.js",
+		"/D/curso-js/introducao-javascript/index.html",
+		"/D/curso-js/introducao-javascript/css/index.css",
+		"/D/curso-js/introducao-javascript/js/calcula-imc.js",
+		"/D/curso-js/introducao-javascript/js/form.js",
+		"/S/thiagofranco/dbdev/index.html",
+		"/D/xampp/htdocs/dbtecnologia/index.html",
+		"/C/Users/cml7/Documents/teste.html",
+		"/C/Users/cml7/AppData/Local/Temp/fz3temp-2/contato.php",
+		"/C/Users/cml7/Downloads/teste.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sublime.editorconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# http://editorconfig.org",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/Repo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CursoReactNative.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
